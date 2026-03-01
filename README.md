@@ -1,6 +1,6 @@
 # Hi there, I'm Tomasz
 
-I’m a software developer with over 2 years of commercial experience.
+I’m a software developer with over 3 years of commercial experience.
 I hold a Bachelor’s degree in Computer Science and a Master’s degree in Artificial Intelligence.
 I enjoy building efficient and scalable solutions, exploring new technologies, and constantly improving my skills.
 Passionate about programming, problem-solving, and turning ideas into reality.
