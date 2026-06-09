@@ -1,10 +1,10 @@
 # Hi there, I'm Tomasz
 
-I’m a software developer with over 3 years of commercial experience.
-I hold a Bachelor’s degree in Computer Science and a Master’s degree in Artificial Intelligence.
+I’m a software developer and data engieer.
 I enjoy building efficient and scalable solutions, exploring new technologies, and constantly improving my skills.
 Passionate about programming, problem-solving, and turning ideas into reality.
 
+<!--
 **My stack**
 
 <img width="30px" height="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -18,7 +18,7 @@ Passionate about programming, problem-solving, and turning ideas into reality.
 <img width="30px" height="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img width="30px" height="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />          
           
-
+-->
 <!--
 **Timoth26/Timoth26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
