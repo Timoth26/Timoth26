@@ -1,6 +1,6 @@
 # Hi there, I'm Tomasz
 
-I’m a software developer and data engieer.
+I’m a software developer and data engineer.
 I enjoy building efficient and scalable solutions, exploring new technologies, and constantly improving my skills.
 Passionate about programming, problem-solving, and turning ideas into reality.
 
